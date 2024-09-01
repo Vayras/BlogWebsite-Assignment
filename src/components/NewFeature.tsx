@@ -1,3 +1,5 @@
+import React from "react";
+
 function NewFeature() {
   return (
     <div className="pt-18">

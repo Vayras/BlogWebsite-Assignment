@@ -1,3 +1,5 @@
+import React from "react";
+
 function About() {
   return (
     <div className="bg-gray-100 p-4 rounded-md">

@@ -1,3 +1,6 @@
+
+import React from "react";
+
 const archives = [
   'March 2014',
   'February 2014',

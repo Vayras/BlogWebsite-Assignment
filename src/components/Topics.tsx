@@ -1,3 +1,5 @@
+import React from "react";
+
 function Topics() {
   return (
     <div className="container flex justify-between item-center mx-auto">
