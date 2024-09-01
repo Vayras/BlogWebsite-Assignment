@@ -1,3 +1,5 @@
+import React from "react";
+
 const sources = ['Github', 'Twitter', 'Facebook'];
 
 function Archives() {

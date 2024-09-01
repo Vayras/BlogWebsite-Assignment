@@ -10,6 +10,7 @@ import BlogPost from './components/BlogPost';
 import AnotherBlogPost from './components/AnotherBlogPost';
 import NewFeature from './components/NewFeature';
 
+
 function App() {
   return (
     <>
@@ -19,7 +20,7 @@ function App() {
       <CardList />
       <div className="mt-12 container mx-auto flex">
         <span className="space-y-12">
-          <BlogPost />
+        <BlogPost />
           <AnotherBlogPost />
           <NewFeature />
         </span>

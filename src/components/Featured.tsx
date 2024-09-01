@@ -1,3 +1,5 @@
+import React from "react";
+
 function Featured() {
   return (
     <div className="mt-6 container pb-3 mb-3 border-b-[1.75px] mx-auto bg-black h-96 text-white flex flex-col justify-items-start py-20 px-12">
